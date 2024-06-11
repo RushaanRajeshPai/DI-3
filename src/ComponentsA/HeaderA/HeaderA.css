@@ -1,0 +1,45 @@
+.headerA-main{
+    display: flex;
+    flex-direction: row;
+  
+}
+
+#logo{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#input-tag{
+    margin-left: 40px;
+    margin-top: 22px;
+    background-color: #F6F7F9;
+    height: 35px;
+    width: 250px;
+    font-size: 12px;
+    border-radius: 10px;
+    padding-left: 15px;
+    border: 1px solid white;
+}
+
+.nav-tags{
+    display: flex;
+    flex-direction: row;
+    gap: 3.5vh;
+    margin-left: 180px;
+    margin-top: 15px;
+}
+
+#hometag:hover,#storytag:hover,#coursetag:hover,#comtag:hover,#talktag:hover{
+    color: #5739F2;
+    cursor: pointer;
+}
+
+#icons{
+    margin-left: 275px;
+    margin-top: 30px;
+}
+
+#avatar{
+    margin-left: 50px;
+    margin-top: 20px;
+}

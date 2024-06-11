@@ -1,0 +1,39 @@
+.headerD-main{
+    display: block;
+}
+
+.headertop{
+    display: flex;
+    flex-direction: row;
+}
+
+#headerD{
+    margin-top: 85px;
+    margin-left: 20px;
+    color: #282A37;
+    font-weight: 200px;
+}
+
+#input-tagD{
+    margin-left: 400px;
+    margin-top: 110px;
+    background-color: #F6F7F9;
+    height: 35px;
+    width: 250px;
+    font-size: 12px;
+    border-radius: 10px;
+    padding-left: 15px;
+    border: 1px solid white;
+}
+
+#circles{
+    margin-top: 110px;
+    margin-left: 480px;
+}
+
+.nav-tagsD{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10vh;
+}

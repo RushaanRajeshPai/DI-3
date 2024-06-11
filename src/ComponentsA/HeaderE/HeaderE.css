@@ -1,0 +1,50 @@
+.headerEtop{
+    display: flex;
+    flex-direction: row;
+}
+
+#headerE{
+    margin-top: 85px;
+    margin-left: 20px;
+    color: #282A37;
+}
+
+#circlesE{
+    margin-top: 115px;
+    margin-left: 1160px;
+}
+
+.headerEbottom{
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-tagsE{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 20px;
+    gap: 5vh;
+}
+
+#input-tagE{
+    margin-left: 580px;
+    margin-top: 25px;
+    background-color: #F6F7F9;
+    height: 35px;
+    width: 250px;
+    font-size: 12px;
+    border-radius: 10px;
+    padding-left: 15px;
+    border: 1px solid white;
+}
+
+#subBtn{
+    height: 40px;
+    width: 100px;
+    margin-top: 25px;
+    margin-left: 40px;
+    color: #282A37;
+    border-radius: 10px;
+    border: 2px solid #282A37;
+}
